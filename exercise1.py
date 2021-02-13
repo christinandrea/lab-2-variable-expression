@@ -19,4 +19,4 @@ lama_bulan = sisa_byr/cicilan
 lama_thn = lama_bulan/12 
 
 print("Estimasi bulan hutang akan lunas : ", int(lama_bulan), "bulan")
-print("Estimasi tahun hutang akan lunas : ", int(lama_thn), "tahun" )
+print("Estimasi tahun hutang akan lunas : ", int(lama_thn), "tahun" ) 
